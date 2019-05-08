@@ -14,6 +14,9 @@ def f_x_t (a, x):
 def a(k):
     return 0.5 + 0.5 * k
 
+
+
+
 'main body'
 '''
 hx - шаг сетки вдоль x
